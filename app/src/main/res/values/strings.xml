@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kodego</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="kodego">Kodego</string>
+    <string name="signup">sign up</string>
+    <string name="create_account">Create your account</string>
+    <string name="email">email</string>
+    <string name="create_an_account">create an account</string>
+    <string name="account_created">account created successfully!</string>
+</resources>
